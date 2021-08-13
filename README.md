@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/LuanFaria">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&show_icons=true&theme=darcula&include_all_commits=false&count_private=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&layout=compact&langs_count=8&theme=darcula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&show_icons=true&theme=darcula&include_all_commits=false&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&layout=compact&langs_count=8&theme=darcula"/>
 </div>
 
 <div style="display: inline_block"><br>
