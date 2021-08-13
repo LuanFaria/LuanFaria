@@ -27,7 +27,6 @@
   <img align="center" alt="Luan-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
     
 </div>
-  <div><img src="https://komarev.com/ghpvc/?username=LuanFaria&color=red" alt="LuanFaria" /></div>
   
   ##
 
