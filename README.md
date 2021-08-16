@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://github.com/LuanFaria">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&show_icons=false&theme=darcula&include_all_commits=false&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&show_icons=false&theme=darcula&include_all_commits=false&count_private=false"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&langs_count=8&theme=darcula"/>
 </div>
 
