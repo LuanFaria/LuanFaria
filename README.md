@@ -14,8 +14,11 @@
 <div>
   <a href="https://github.com/LuanFaria">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&show_icons=false&theme=darcula&include_all_commits=false&count_private=false"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&langs_count=8&theme=darcula"/>
 </div>
+  <div>  
+    <a href="https://github.com/LuanFaria">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&langs_count=8&theme=darcula"/>
+  </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
