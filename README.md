@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/LuanFaria">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&theme=darcula&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="170" alt="Estatísticas do GitHub de LuanFaria" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&theme=darcula&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
