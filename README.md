@@ -20,11 +20,7 @@
 
 <br>
 
-<div>
-  <a href="https://github.com/LuanFaria">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanFaria&theme=darcula&show_icons=true" alt="Estatísticas GitHub"/>
-  </a>
-</div>
+
 
 <br>
 
