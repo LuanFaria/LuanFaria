@@ -1,4 +1,4 @@
-## Luan Donizete Faria
+# Luan Donizete Faria
 
 <div>
   <a href="https://www.instagram.com/luandfaria_/" target="_blank">
@@ -19,14 +19,12 @@
 </div>
 
 <br>
-<div>
 
-  
+<div>
   <a href="https://github.com/LuanFaria">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanFaria&theme=darcula&show_icons=true" alt="Estatísticas GitHub"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&theme=darcula&show_icons=true" alt="Estatísticas GitHub"/>
   </a>
 </div>
-
 
 <br>
 
