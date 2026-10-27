@@ -43,7 +43,7 @@ Transformo dados espaciais e problemas do agronegócio em soluções reais com P
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuanFaria&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFaria&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
