@@ -5,11 +5,11 @@ Transformo dados espaciais e problemas do agronegócio em soluções reais com P
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- 🌱 Especialista em **agricultura de precisão**, sensoriamento remoto e automação de processos no campo
-- 💼 Fundador da **TechLuvics** — desenvolvemos sites, sistemas e automações sob medida (com foco especial em AgTech)
-- 🛰️ Trabalho com processamento de imagens de satélite, análise de NDVI, segmentação de canaviais e integração de dados geoespaciais
+- Trabalho com processamento de imagens de satélite, análise de NDVI, segmentação de canaviais e integração de dados geoespaciais
+- Especialista em **agricultura digital**, sensoriamento remoto e automação de processos.
+- Fundador da **TechLuvics** — desenvolvemos sites, sistemas e automações sob medida.
 - 📍 Ribeirão Preto - SP
 
 ---
@@ -57,4 +57,4 @@ Transformo dados espaciais e problemas do agronegócio em soluções reais com P
 
 ---
 
-⭐️ Se curtiu algum projeto, deixa uma star!
+
